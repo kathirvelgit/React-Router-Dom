@@ -1,16 +1,49 @@
-# React + Vite
+# 🚀 React Router DOM Navigation App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly **React Router DOM** project that demonstrates **client-side routing**, **nested routes**, **dynamic routes**, **layout templates**, and **custom error pages** using the latest React Router features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- ⚛️ Built with React
+- 🛣️ React Router DOM v6+
+- 📄 Nested Routing
+- 🔗 Navigation using Link
+- 📦 Layout Component using Outlet
+- 👤 Dynamic Route Parameters
+- 🚫 Custom 404 Page
+- 📱 Clean & Simple UI
+- ♻️ Component-Based Architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- 🛣️ React Router DOM
+- 📄 JSX
+- 🎨 CSS3
+- 💻 JavaScript (ES6)
+
+---
+
+## 🎯 React Router Concepts Covered
+
+- ✅ createBrowserRouter()
+- ✅ RouterProvider
+- ✅ Nested Routes
+- ✅ Outlet
+- ✅ Link
+- ✅ Dynamic Routing
+- ✅ useParams()
+- ✅ Custom Error Handling
+
+---
+
+## 🤝 Connect with Me
+
+### 💼 LinkedIn
+
+🔗 [Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
+
